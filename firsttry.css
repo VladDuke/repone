@@ -1,0 +1,101 @@
+h1{
+	color:green;
+}
+h3{
+	color:red;
+}
+em{
+	color:#FF3A83;
+	font-size:20px;
+}
+div{
+	font-size:24px;
+	color:rgba(255,0,0,0.9)
+}
+aside{
+    margin: 20px 0;
+    color: #c4c4c4;
+}
+img {
+	display: flex;
+	justify-content: center;
+}
+figure {
+	display: flex;
+	justify-content: center;
+	margin-left: 0;
+	margin-right: 0;
+}
+figure img {
+	vertical-align: middle;
+	border: 8px solid rgb(202, 224, 248);
+}
+
+figcaption {
+	display: flex;
+	justify-content: center;
+	width: 502px;
+	padding-bottom: 8px;
+	font-size: 12px;
+	letter-spacing: 0.02em;
+	font-style: italic;
+	text-align: center;
+	background-color: rgb(202, 224, 248);
+
+#a10{
+	border: 1px solid black;
+	font-size:20;
+	margin-bottom:200px;
+	margin-left: 20px;
+	margin-right:20px;
+	margin-top:200px;
+	color:#29cf2f;
+	padding-left:5px;
+}
+#a1 {
+	color:pink;
+	font-size:20px;
+}
+#a11{
+	border: 1px solid black;
+	font-size:20;
+	margin-bottom:200px;
+	margin-left: 50px;
+	margin-right:20px;
+	margin-top:200px;
+	color:#29cf2f;
+	padding-left:5px;
+}
+#a12{
+	border: 1px solid black;
+	font-size:20;
+	margin-bottom:200px;
+	margin-left: 0px;
+	margin-right:20px;
+	margin-top:200px;
+	color:#3b78ca;
+	padding-left:5px;
+}
+#ret1{
+	border: 1px solid black;
+	margin-left:500px;
+	font-size: 25px;
+}
+
+.perviy{
+	color: purple;
+}
+.vtoroy{
+	color: gray;
+	border: 1px dashed black;
+	
+}
+.message{
+	color: #747474;
+	background-color: #E4E4E4;
+	border: 1px solid black;
+}
+.success{
+		color:green;
+		
+}
